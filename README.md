@@ -35,5 +35,5 @@ Prerequisites
 - Node.js (v18 or higher)
 - npm or yarn
 
-npm create vite@latest -- diagramdash
-npm i react-dropzone react-zoom-pan-pinch lucide-react clsx tailwind-merge
+- npm create vite@latest -- diagramdash
+- npm i react-dropzone react-zoom-pan-pinch lucide-react clsx tailwind-merge
