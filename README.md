@@ -11,10 +11,10 @@ Features
 
 Tech Stack
 
-Frontend: React 19, TypeScript
-Styling: Tailwind CSS
-Icons: Lucide React
-Utils: react-dropzone, react-zoom-pan-pinch, clsx
+- Frontend: React 19, TypeScript
+- Styling: Tailwind CSS
+- Icons: Lucide React
+- Utils: react-dropzone, react-zoom-pan-pinch, clsx
 
 
 Development Journey
